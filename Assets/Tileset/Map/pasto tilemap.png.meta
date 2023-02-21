@@ -1,0 +1,1628 @@
+fileFormatVersion: 2
+guid: 16671406f2a314d618fdb8cc5a63c072
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pasto tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91844951558394bd0a02ff81957fca68
+      internalID: 1688910441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd96cb1e89604a4ea0ef60c87b719c1
+      internalID: -841542172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d666aaff1bba944a0850e6f55c6423f4
+      internalID: -1164800963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e663d3fa6c113408ea9c4a3e0f545f1c
+      internalID: -321672362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9e2e6fe493547048ade5c1065c3dfe
+      internalID: -1486013778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2e6f5d7d7a2479897507ae44e27b48
+      internalID: 1042457667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee7d3769ab664e64865a841d629cf75
+      internalID: -1449202083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e264022621d794c3fadda358cd41e4b2
+      internalID: 1840683843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a0f0838b50d4960bf55eca8b815500
+      internalID: 961714234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b03309e058340e39ce45870ef232e4
+      internalID: -2114110325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae70c4f992344fe7bc5662fec49b65c
+      internalID: 754807852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10453375560494e34af1d315e7c3bc3e
+      internalID: -1704800766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ca9c255eac74b31ac8641e477ad4c1
+      internalID: 890912543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c61f42f218d483c90abb4c852ca0a0
+      internalID: 1682779455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9714aec8b9343828df12ee504b6f88
+      internalID: -853596319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69af234c0d2c14a86997827b2c1bb6c7
+      internalID: -294143966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0234c6555291d44459f4578919fdf204
+      internalID: -634023083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e7c53f43e5f496f94ebe51ceb3a78e
+      internalID: 302070141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90719786691c64bbd956e6d126b2af8e
+      internalID: 1870883888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4eae21a29a8430eb6124b09b542f62
+      internalID: 69595967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56461be532f9e4dd49ca5335e3b28958
+      internalID: 1106394760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de08ff5ccaff64f9aa9af8e67b8e3611
+      internalID: -826756488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc50e2a6d5d78437dadd7a527befd1ff
+      internalID: 834847532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d6fdf38d4e244e0bcef2f687797248
+      internalID: 1501992241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c9574db56b548acb0c31a89d5a3b2e
+      internalID: 1160800748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3734db9fc384c3195215295580a526
+      internalID: -1336132410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d484f3bf15fb8462688d81132edcf575
+      internalID: -1411470812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b648145c0d13b47df8dfdf58a8dd804c
+      internalID: -1738441594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cbf181b47bc4204a420a2dfc4a6a6f
+      internalID: 1033325918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d048f98bf48e4224a3f0bd3000fde90
+      internalID: 1764197799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bdf272f54da46a4b5237858218f4c8
+      internalID: -1957034298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676e02a566e784419aa1cffbf34300ea
+      internalID: -137191070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b594109a0894744b8a907c5e9b5931
+      internalID: 1419853078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_33
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faa8cd0a95db4e1d82baa193c73b215
+      internalID: -1276223686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177abf2c5a47440deaeb00d5c143ccf3
+      internalID: -1055600382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37768696cc34143089970ed06e309bd2
+      internalID: 2059592829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35b5ad77a01a48ba899ef80af1efacb
+      internalID: -534833616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_37
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846e28135fa614b8ca2c344a7cf0de83
+      internalID: 525362134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6f9b53a1ce64e4485b1fbbc5b815ba
+      internalID: -2135145971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6c7c092c17b46978014f9bf28c846c
+      internalID: 1514123867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -32}
+        - {x: 32, y: 0}
+        - {x: 0, y: 32}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e3b1dbe34344778b78fda4c184926d
+      internalID: 1217634760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf80cf019db346b2b0794f71bd11995
+      internalID: 1415768769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa2c9fb422ad48b1aec676d2d00e001
+      internalID: -269356730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d83db905478419e98e5cd0838aa9d5
+      internalID: -1375792202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fbeaa5e8e80430e822e07dcd7bf155
+      internalID: -1889578875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dbe0e6d4e9244cdb4842de90f1a4a7
+      internalID: -1458211919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31eeb5204e4ba4768b6d379e3ef671c7
+      internalID: 193211744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_47
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3758d6d29f27a47e79c1b11cb52ac359
+      internalID: -349040490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a7692c8b9e14aa39dcf5c80f8b5092
+      internalID: 221903097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc962493d54843deb9363e061fc57b5
+      internalID: -780437173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28572c15bfefb4c66bd48fdd383c8579
+      internalID: -19387108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8b44b8701f94503894b79ff4de350d
+      internalID: 1264566608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pasto tilemap_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f969bbea9b84b2b8671e6d5679147d
+      internalID: 42270544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pasto tilemap_31: -137191070
+      pasto tilemap_11: -1704800766
+      pasto tilemap_14: -853596319
+      pasto tilemap_24: 1160800748
+      pasto tilemap_32: 1419853078
+      pasto tilemap_8: 961714234
+      pasto tilemap_36: -534833616
+      pasto tilemap_46: 193211744
+      pasto tilemap_13: 1682779455
+      pasto tilemap_4: -1486013778
+      pasto tilemap_16: -634023083
+      pasto tilemap_26: -1411470812
+      pasto tilemap_25: -1336132410
+      pasto tilemap_22: 834847532
+      pasto tilemap_50: -19387108
+      pasto tilemap_10: 754807852
+      pasto tilemap_17: 302070141
+      pasto tilemap_19: 69595967
+      pasto tilemap_1: -841542172
+      pasto tilemap_33: -1276223686
+      pasto tilemap_45: -1458211919
+      pasto tilemap_23: 1501992241
+      pasto tilemap_0: 1688910441
+      pasto tilemap_49: -780437173
+      pasto tilemap_7: 1840683843
+      pasto tilemap_27: -1738441594
+      pasto tilemap_15: -294143966
+      pasto tilemap_6: -1449202083
+      pasto tilemap_51: 1264566608
+      pasto tilemap_30: -1957034298
+      pasto tilemap_38: -2135145971
+      pasto tilemap_40: 1217634760
+      pasto tilemap_5: 1042457667
+      pasto tilemap_12: 890912543
+      pasto tilemap_47: -349040490
+      pasto tilemap_18: 1870883888
+      pasto tilemap_28: 1033325918
+      pasto tilemap_35: 2059592829
+      pasto tilemap_37: 525362134
+      pasto tilemap_52: 42270544
+      pasto tilemap_2: -1164800963
+      pasto tilemap_3: -321672362
+      pasto tilemap_34: -1055600382
+      pasto tilemap_29: 1764197799
+      pasto tilemap_43: -1375792202
+      pasto tilemap_21: -826756488
+      pasto tilemap_44: -1889578875
+      pasto tilemap_48: 221903097
+      pasto tilemap_39: 1514123867
+      pasto tilemap_42: -269356730
+      pasto tilemap_41: 1415768769
+      pasto tilemap_20: 1106394760
+      pasto tilemap_9: -2114110325
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
